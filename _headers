@@ -1,0 +1,9 @@
+/Build/*.data.unityweb
+  Content-Encoding: gzip
+
+/Build/*.wasm.unityweb
+  Content-Encoding: gzip
+
+/Build/*.framework.js.unityweb
+  Content-Encoding: gzip
+  Content-Type: application/javascript
